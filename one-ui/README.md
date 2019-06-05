@@ -53,7 +53,7 @@
 
 ## 运行项目
 
-	npm install
+	npm install （或者cnpm install 速度更快）
 
 	# 开发运行环境;运行命令后，浏览器自动打开http://localhost:8000
 	npm run dev

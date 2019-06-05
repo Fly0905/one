@@ -18,6 +18,11 @@
 -   用redis存储登录用户信息
 
 
+## API地址
+-   [http://localhost:8080/login.html](http://localhost:8080/login.html "http://localhost:8080/login.html")
+
+
+
 # 技术栈
 ## 后端
 -   Spring Boot 2.0.5.RELEASE

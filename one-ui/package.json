@@ -86,8 +86,8 @@
     "ora": "^1.2.0",
     "phantomjs-prebuilt": "^2.1.14",
     "rimraf": "^2.6.0",
-    "semver": "^5.3.0",
-    "shelljs": "^0.7.6",
+    "semver": "^5.7.0",
+    "shelljs": "^0.7.8",
     "sinon": "^2.1.0",
     "sinon-chai": "^2.8.0",
     "url-loader": "^0.6.2",
@@ -98,7 +98,7 @@
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-middleware": "^1.10.0",
     "webpack-hot-middleware": "^2.20.0",
-    "webpack-merge": "^4.1.0",
+    "webpack-merge": "^4.2.1",
     "webpack-visualizer-plugin": "^0.1.11"
   },
   "engines": {
